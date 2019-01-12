@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Please Feel Free to download and test the app, incase of any issues, you know what to do(ISSUE an ISSUE)
+
+![alt text](https://raw.githubusercontent.com/trey-rosius/skate/master/assets/images/skate.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
